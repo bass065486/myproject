@@ -1,4 +1,4 @@
-echo "# ReactNativeApp" >> README.md
+echo "# ReactNativeApp" >> README.md 29/06/2564
 
 git config --global user.email "bassaungkoon13@gmail.com" //
 
